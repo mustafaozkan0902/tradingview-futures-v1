@@ -4,7 +4,7 @@
   "price": "{{strategy.order.price}}",
   "side": "{{strategy.order.comment}}",
   "quantity": "250",
-  "binanceApiKey": "",
-  "binanceSecretKey": ""
+  "binanceApiKey": "API KEY",
+  "binanceSecretKey": "SECRET KEY"
 
 }
